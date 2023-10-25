@@ -1,4 +1,3 @@
-# Second year Computer Science & Maths student
 
 ## ABOUT ME:
 
