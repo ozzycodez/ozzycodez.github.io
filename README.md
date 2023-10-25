@@ -1,7 +1,7 @@
 ## My Software Journey
 introduction about myself, what I do, what I like outside
-**Programming Languages:**  _Python, Javascript, Java_
-**Technologies:** _ReactJS, NodeJS, MySQL, MongoDB, DjangoREST, HTML & CSS, Git, Figma_
+- **Programming Languages:**  _Python, Javascript, Java_
+- **Technologies:** _ReactJS, NodeJS, MySQL, MongoDB, DjangoREST, HTML & CSS, Git, Figma_
 
 
 ## Education
