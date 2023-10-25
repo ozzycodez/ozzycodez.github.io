@@ -1,11 +1,11 @@
-## my software journey
+## My Software Journey
+introduction about myself, what I do, what I like outside
+#### Programming Languages: Python, Javascript, Java
+#### Technologies: ReactJS, NodeJS, MySQL, MongoDB, DjangoREST, HTML & CSS, Git, Figma
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- BSc, Computer Science & Mathematics | The University of Manchester _Sep 2021 ~ Present_
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
