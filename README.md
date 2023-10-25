@@ -6,7 +6,7 @@ introduction about myself, what I do, what I like outside.
 
 ## Education
 - BSc, Computer Science & Mathematics | The University of Manchester _Sep 2021 ~ Present_
-- 4 A Levels (Biology, Chemistry, Maths & Further Mathematics | The University of Manchester _Sep 2019 ~ Jun 2021_
+- 4 A Levels (Biology, Chemistry, Mathematics & Further Mathematics | Elliott Hudson College _Sep 2019 ~ Jun 2021_
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
