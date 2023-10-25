@@ -1,4 +1,4 @@
-# AMEER OSMAN YOUSUFZIA readme
+# Second year Computer Science & Maths student
 
 ## ABOUT ME:
 
