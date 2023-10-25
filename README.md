@@ -1,4 +1,4 @@
-## All About Me
+## ALL ABOUT ME
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
