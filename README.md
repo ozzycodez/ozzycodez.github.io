@@ -1,14 +1,14 @@
 ## My Software Journey
 introduction about myself, what I do, what I like outside.
 - **Programming Languages:**  _Python, Javascript, Java_
-- **Technologies:** _ReactJS, NodeJS, Strapi, DjangoREST, MySQL, MongoDB, HTML & CSS, Git_
+- **Technologies:** _ReactJS, NodeJS & ExpressJS, DjangoREST, Strapi, MySQL, MongoDB, HTML & CSS, Git_
 
 
 ## Education
 - BSc, Computer Science & Mathematics | The University of Manchester _Sep 2021 ~ Present_
 - 4 A Levels (Biology, Chemistry, Mathematics & Further Mathematics | Elliott Hudson College _Sep 2019 ~ Jun 2021_
 
-## Work Experience
+## Work Experience & Internships
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
@@ -32,7 +32,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
+## Hackathons
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
